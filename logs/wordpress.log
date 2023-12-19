@@ -1,0 +1,132 @@
+2023-02-07 00:25:02.419 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading credentials
+2023-02-07 00:25:02.427 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Wordpress Environment Id --> QA01
+2023-02-07 00:25:02.432 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading API service config
+2023-02-07 00:25:02.436 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Initializing API Manager
+2023-02-07 00:25:03.554 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:25:04.379 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:25:05.830 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:25:06.923 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:25:07.452 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:28:40.041 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading credentials
+2023-02-07 00:28:40.042 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Wordpress Environment Id --> QA01
+2023-02-07 00:28:40.043 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading API service config
+2023-02-07 00:28:40.043 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Initializing API Manager
+2023-02-07 00:28:41.143 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:28:41.984 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:28:43.137 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:28:44.214 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:28:44.722 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:35:41.650 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading credentials
+2023-02-07 00:35:41.651 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Wordpress Environment Id --> QA01
+2023-02-07 00:35:41.652 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading API service config
+2023-02-07 00:35:41.652 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Initializing API Manager
+2023-02-07 00:35:42.761 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:35:43.624 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:35:44.905 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:35:45.983 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:35:46.511 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:48:19.753 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading credentials
+2023-02-07 00:48:19.754 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Wordpress Environment Id --> QA01
+2023-02-07 00:48:19.755 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading API service config
+2023-02-07 00:48:19.755 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Initializing API Manager
+2023-02-07 00:48:20.816 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:48:21.677 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:48:22.928 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:48:24.029 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 00:48:24.571 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:25:24.454 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading credentials
+2023-02-07 06:25:24.456 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Wordpress Environment Id --> QA01
+2023-02-07 06:25:24.460 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading API service config
+2023-02-07 06:25:24.462 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Initializing API Manager
+2023-02-07 06:25:31.549 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:25:32.343 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:25:32.969 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:25:33.520 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:25:34.106 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:28:52.462 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading credentials
+2023-02-07 06:28:52.463 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Wordpress Environment Id --> QA01
+2023-02-07 06:28:52.464 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading API service config
+2023-02-07 06:28:52.464 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Initializing API Manager
+2023-02-07 06:28:53.608 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:28:54.496 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:28:55.762 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:28:56.869 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:28:57.430 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:29:34.491 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading credentials
+2023-02-07 06:29:34.493 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Wordpress Environment Id --> QA01
+2023-02-07 06:29:34.494 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading API service config
+2023-02-07 06:29:34.494 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Initializing API Manager
+2023-02-07 06:29:35.598 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:29:36.386 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:29:37.469 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:29:38.476 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:29:38.959 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:29:50.403 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading credentials
+2023-02-07 06:29:50.405 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Wordpress Environment Id --> QA01
+2023-02-07 06:29:50.405 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading API service config
+2023-02-07 06:29:50.405 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Initializing API Manager
+2023-02-07 06:29:51.697 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:29:52.574 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:29:53.660 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:29:54.636 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:29:55.134 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:50:24.987 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading credentials
+2023-02-07 06:50:24.988 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Wordpress Environment Id --> QA01
+2023-02-07 06:50:24.989 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading API service config
+2023-02-07 06:50:24.989 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Initializing API Manager
+2023-02-07 06:50:26.059 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:50:26.894 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:50:28.127 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:50:29.165 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 06:50:29.710 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:43:32.663 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading credentials
+2023-02-07 15:43:32.664 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Wordpress Environment Id --> QA01
+2023-02-07 15:43:32.668 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading API service config
+2023-02-07 15:43:32.671 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Initializing API Manager
+2023-02-07 15:43:33.858 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:43:34.799 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:43:36.375 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:43:37.600 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:43:38.223 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:48:04.878 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading credentials
+2023-02-07 15:48:04.880 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Wordpress Environment Id --> QA01
+2023-02-07 15:48:04.880 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading API service config
+2023-02-07 15:48:04.880 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Initializing API Manager
+2023-02-07 15:48:06.045 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:48:06.905 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:48:08.125 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:48:09.252 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:48:09.840 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:48:11.101 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:49:48.442 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading credentials
+2023-02-07 15:49:48.444 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Wordpress Environment Id --> QA01
+2023-02-07 15:49:48.445 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading API service config
+2023-02-07 15:49:48.445 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Initializing API Manager
+2023-02-07 15:49:49.556 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:49:50.362 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:49:51.462 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:49:51.913 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:49:52.931 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:49:53.413 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:49:53.934 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:49:55.113 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 15:49:56.683 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 16:49:27.741 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading credentials
+2023-02-07 16:49:27.743 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Wordpress Environment Id --> QA01
+2023-02-07 16:49:27.744 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading API service config
+2023-02-07 16:49:27.744 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Initializing API Manager
+2023-02-07 16:49:28.988 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 16:49:34.891 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading credentials
+2023-02-07 16:49:34.894 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Wordpress Environment Id --> QA01
+2023-02-07 16:49:34.894 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading API service config
+2023-02-07 16:49:34.894 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Initializing API Manager
+2023-02-07 16:49:36.053 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 16:49:37.595 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 16:49:38.196 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 16:49:43.584 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading credentials
+2023-02-07 16:49:43.588 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Wordpress Environment Id --> QA01
+2023-02-07 16:49:43.588 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Reading API service config
+2023-02-07 16:49:43.589 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Initializing API Manager
+2023-02-07 16:49:44.771 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 16:49:46.141 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
+2023-02-07 16:49:47.275 INFO [main] [utils.LoggerManager.log(LoggerManager.java:31)] - Authentication Token retrieved
